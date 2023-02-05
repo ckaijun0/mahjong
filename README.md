@@ -1,3 +1,3 @@
 # AA228
 
-Final Project: Mahjong
+Final Project: Mahjong :)
